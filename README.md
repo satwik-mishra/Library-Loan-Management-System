@@ -286,6 +286,7 @@ Insert Strategy,1000,520.12,95.44
 - If schema changes are made, delete the `libraryDB` folder and rerun the application.
 
 # Author
-Satwik Mishra
+Satwik Mishra.
+
 
 
